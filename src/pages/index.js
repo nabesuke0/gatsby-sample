@@ -1,5 +1,11 @@
 import React from "react"
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return (
+    <div>
+      <h1>挨拶</h1>
+      <p>はろーわーるど</p>
+      <footer>Presented by Tester</footer>
+    </div>
+  )
 }
